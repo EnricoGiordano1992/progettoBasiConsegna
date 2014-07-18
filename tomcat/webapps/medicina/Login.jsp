@@ -100,7 +100,7 @@
 			Password:
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input
 				type="password" name="password" class="textarea"> <br>
-			<input type="submit" class="button">
+			<input type="submit" class="button" value="invia">
 		</form>
 
 		<br>
@@ -114,7 +114,7 @@
 		<form action="?ps=medico" method="post" class="dark-matter">
 			ID medico: <input type="text" name="user"><br> Password:
 			<input type="password" name="password" class="textarea"> <br>
-			<input type="submit" class="button">
+			<input type="submit" class="button" value="invia">
 		</form>
 
 		<br> <br> <br>

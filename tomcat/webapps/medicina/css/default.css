@@ -280,7 +280,7 @@ hr {
 	{
 		width: 500px;
 		height: 100px;
-		margin: 0 auto;
+		margin: 6 auto;
 		padding: 2em 0em;
 		text-transform: uppercase;
 	}
@@ -687,6 +687,7 @@ hr {
     font-weight: bold;
 }
 .dark-matter input[type="text"], .dark-matter input[type="email"], .dark-matter textarea, .dark-matter select {
+	
     border: none;
     color: #525252;
     height: 25px;
@@ -697,10 +698,14 @@ hr {
     outline: 0 none;
     padding: 5px 0px 5px 5px;
     width: 70%;
-    border-radius: 2px;
+-moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+        border-radius: 2px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-user-select: none;
     background: #DFDFDF;
 }
 .dark-matter select {

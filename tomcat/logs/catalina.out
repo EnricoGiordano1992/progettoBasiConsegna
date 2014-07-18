@@ -776,3 +776,135 @@ lug 18, 2014 5:05:32 PM org.apache.coyote.AbstractProtocol start
 Informazioni: Starting ProtocolHandler ["ajp-bio-8009"]
 lug 18, 2014 5:05:32 PM org.apache.catalina.startup.Catalina start
 Informazioni: Server startup in 785 ms
+lug 18, 2014 5:07:36 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+lug 18, 2014 5:07:36 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.3.5.Final}
+lug 18, 2014 5:07:36 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+lug 18, 2014 5:07:36 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+lug 18, 2014 5:07:36 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+lug 18, 2014 5:07:36 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+lug 18, 2014 5:07:36 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:36 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/CartellaClinica.hbm.xml
+lug 18, 2014 5:07:36 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Conferme.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Contraddizioni.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Diagnosi.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/FattoriRischio.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Medico.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Paziente.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/RischiPaziente.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Sintomi.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/SpecDelMedico.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Specializzazioni.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration addResource
+INFO: HHH000221: Reading mappings from resource: bean/Terapie.hbm.xml
+lug 18, 2014 5:07:37 PM org.hibernate.internal.util.xml.DTDEntityResolver resolveEntity
+WARN: HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+lug 18, 2014 5:07:37 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: 
+lug 18, 2014 5:07:37 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+lug 18, 2014 5:07:37 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH000401: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/dblab16]
+lug 18, 2014 5:07:37 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH000046: Connection properties: {user=userlab16, password=****}
+lug 18, 2014 5:07:37 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH000006: Autocommit mode: false
+lug 18, 2014 5:07:37 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+lug 18, 2014 5:07:38 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+lug 18, 2014 5:07:38 PM org.hibernate.engine.jdbc.internal.LobCreatorBuilder useContextualLobCreation
+INFO: HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+lug 18, 2014 5:07:38 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+lug 18, 2014 5:07:38 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+lug 18, 2014 5:07:39 PM org.hibernate.internal.SessionFactoryRegistry addSessionFactory
+WARN: HHH000277: Could not bind factory to JNDI
+org.hibernate.engine.jndi.JndiException: Error performing intermediate bind []
+	at org.hibernate.engine.jndi.internal.JndiServiceImpl.bind(JndiServiceImpl.java:216)
+	at org.hibernate.engine.jndi.internal.JndiServiceImpl.bind(JndiServiceImpl.java:159)
+	at org.hibernate.internal.SessionFactoryRegistry.addSessionFactory(SessionFactoryRegistry.java:103)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:497)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1857)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1928)
+	at bean.HibernateUtil.<clinit>(HibernateUtil.java:22)
+	at dbms.DBMS.getPrimario(DBMS.java:144)
+	at org.apache.jsp.Info_jsp._jspService(Info_jsp.java:79)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:432)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:334)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at main.doGet(main.java:95)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:224)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:987)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:579)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:307)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.naming.NamingException: Name is not valid
+	at org.apache.naming.NamingContext.bind(NamingContext.java:893)
+	at org.apache.naming.NamingContext.rebind(NamingContext.java:226)
+	at org.apache.naming.SelectorContext.rebind(SelectorContext.java:218)
+	at javax.naming.InitialContext.rebind(InitialContext.java:431)
+	at org.hibernate.engine.jndi.internal.JndiServiceImpl.bind(JndiServiceImpl.java:213)
+	... 38 more
+
