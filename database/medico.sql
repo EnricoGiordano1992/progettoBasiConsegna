@@ -17,7 +17,7 @@ INSERT INTO MEDICO VALUES ('BXXCRM376238', 'Carmela', 'Bi', 'no', 'Fi@Ghi', '196
 INSERT INTO MEDICO VALUES ('TGGMRC959362', 'Marco', 'Tigga', 'no', 'Zo@Ni', '1970-8-21');
 INSERT INTO MEDICO VALUES ('MRRDXX423790', 'Dario', 'Merrulummi', 'no', 'Vo@Pi', '1959-6-8');
 INSERT INTO MEDICO VALUES ('TDDNGL347207', 'Angela', 'Tudadoppa', 'no', 'Subba@Du', '1974-4-1');
-INSERT INTO MEDICO VALUES ('CZZNXX575948', 'Anna', 'Cazzo', 'no', 'Zelli@Zebu', '1988-11-20');
+INSERT INTO MEDICO VALUES ('CZZNXX575948', 'Anna', 'Calzo', 'no', 'Zelli@Zebu', '1988-11-20');
 INSERT INTO MEDICO VALUES ('NTTCLD577404', 'Claudia', 'Nottafuggi', 'no', 'Roffato@Mo', '1965-4-12');
 INSERT INTO MEDICO VALUES ('SPGMRT823983', 'Marta', 'Sepaggi', 'no', 'Zerri@Vo', '1951-6-7');
 INSERT INTO MEDICO VALUES ('GXXLXX356369', 'Alex', 'Gi', 'no', 'Pofe@Mipe', '1954-9-2');
